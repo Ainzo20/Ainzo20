@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Ainzo20
-- 👀 I’m interested in .GameDev,Mobile app dev and awsome free tools..
-- 🌱 I’m currently learning dart and flutter...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Through my email"karlvait84@gmail.com"...
+### Hi, I'm Karl 👋
 
-<!---
-Ainzo20/Ainzo20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full-Stack Developer & Graphic Designer** based in Ngaoundéré, Cameroon.
+
+I build web and mobile apps with **React, Next.js, Flutter, and FastAPI**, and I design visual identities for local businesses and associations.
+
+- 🎮 Outside of code: game dev, comics, and some 3D in Blender.
+- 📫 Reach me: [Portfolio](https://ainzo20.github.io) · [LinkedIn](https://www.linkedin.com/in/karl-vaitchafa) · karlvait21@gmail.com
+
+*I'll be glad to work with you.*
